@@ -1,0 +1,14 @@
+streamlit==1.46.1
+
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-community==0.3.27
+langgraph==0.5.3
+langchain-groq==0.3.6
+
+google-genai==1.28.0
+tavily-python==0.7.10
+
+pydantic==2.11.7
+python-dotenv==1.1.1
+pandas==2.3.1
